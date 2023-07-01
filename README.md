@@ -2,9 +2,7 @@
 ## Project purpose
 Implementation of the paper "Fuzzy-NMS: Improving 3D Object Detection with Fuzzy Classification in NMS" on Openpcdet.
 
-![](D:\Desktop\fig1改.png)
-
-![](D:\Desktop\1687374692475.png)
+![fig1](D:\Desktop\Fuzzy-NMS\Fuzzy-NMS\figure\fig1.png)
 
 ## Installation
 ### Requirements
